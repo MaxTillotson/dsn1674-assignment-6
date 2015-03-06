@@ -1,6 +1,5 @@
 html {
   box-sizing: border-box;
-  background color: #fff;
   color: #000;
   font-family: 'Contrail One', cursive;
 }
@@ -9,7 +8,7 @@ html {
   box-sizing: inherit;
 }
 
-}
+
 .body {
   width: 320px;
 }
@@ -24,4 +23,25 @@ html {
 
 .head-right {
   width: 125px;
+}
+
+.box {
+  background-color: #2b3951;
+}
+
+.box-1{
+  background-color: #1a2230;
+}
+
+h2 {
+  color: white;
+  text-align: center;
+  margin: 0px;
+  width: 100%;
+  padding: 1em;
+  font-size: 2rem;
+}
+
+body {
+  background-color: #2b3951;
 }
