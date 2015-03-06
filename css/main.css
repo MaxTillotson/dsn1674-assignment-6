@@ -1,0 +1,27 @@
+html {
+  box-sizing: border-box;
+  background color: #fff;
+  color: #000;
+  font-family: 'Contrail One', cursive;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+}
+.body {
+  width: 320px;
+}
+
+.brain {
+  width: 46px;
+}
+
+.head-left {
+  width: 125px;
+}
+
+.head-right {
+  width: 125px;
+}
