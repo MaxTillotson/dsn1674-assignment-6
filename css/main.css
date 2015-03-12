@@ -8,40 +8,56 @@ html {
   box-sizing: inherit;
 }
 
-
 .body {
   width: 320px;
+  position: relative;
+  bottom: -180px;
+  left: 39px;
 }
 
 .brain {
   width: 46px;
+  position: relative;
+  bottom: -85px;
+  right: 145px;
 }
 
 .head-left {
   width: 125px;
+  position: relative;
+  bottom: 47px;
+  left: 73px;
 }
 
 .head-right {
   width: 125px;
+  position: relative;
+  bottom: 47px;
+  left: 70px;
 }
 
-.box {
+main {
   background-color: #2b3951;
+
 }
 
-.box-1{
-  background-color: #1a2230;
-}
+
+
 
 h2 {
   color: white;
   text-align: center;
   margin: 0px;
   width: 100%;
-  padding: 1em;
+  padding: .75em;
   font-size: 2rem;
+
 }
 
-body {
-  background-color: #2b3951;
+
+footer {
+  background-color: #1a2230;
+  bottom: 0;
+  margin:0px;
+
 }
